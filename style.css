@@ -1,0 +1,269 @@
+.bannar-bg{
+    background-image: url(images/samantha-2.png) ;
+    Width:1440px;
+    Height:683px;
+    Top:133px;
+    padding: 7% 0 0 6%;
+}
+.bannar-area h1{
+    background-color: #fff;
+    Width:359px;
+   Height:83px;
+   padding-top: 10px;
+   padding-left:90px;
+}
+.bannar-area p{
+    background-color: #fff;
+    padding-top: 10px;
+   padding-left:90px;
+   width: 495px;
+   height: 56px
+}
+.bannar-bg h2{
+    Width:738px;
+    Height:242px;
+    Top:1033px;
+    Lef:110px;
+}
+.row{
+    display: flex;
+}
+.bannar-s{
+    background-image: url(images/picture.png);
+    width: 1440px;
+    height: 680px;
+    top: 1523px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 5% 0 0 7%;
+
+}
+.bannar-s h1{
+    background-color: #fff;
+    width: 359px;
+height: 83px;
+top: 1586px;
+left: 112px;
+gap: 0px;
+opacity: 0px;
+padding: 1% 0 0 3%;
+letter-spacing: 15px;
+
+}
+.bannar-s p{
+    background-color: #fff;
+    width: 1134px;
+height: 93px;
+top: 1690px;
+left: 112px;
+gap: 0px;
+opacity: 0px;
+padding: 1% 0 0 3%;
+font-family: Gilroy;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.8px;
+letter-spacing: 0.05em;
+text-align: left;
+
+
+}
+
+
+.bannar-three{
+    background-image: url(images/patha.png);
+    width: 1442px;
+height: 500px;
+top: 3616px;
+
+padding:  5% 0 0 2%;
+
+}
+.bannar-three h2{
+    background-color: #fff;
+    width: 359px;
+height: 83px;
+top: 3691px;
+left: 100px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 38px;
+font-weight: 400;
+line-height: 45.6px;
+letter-spacing: 0.435em;
+text-align: left;
+padding: 1% 0 0 2%;
+
+
+}
+.bannar-three p{
+    background-color: #fff;
+    width: 581px;
+height: 68px;
+top: 3797px;
+left: 90px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 24px;
+
+font-weight: 400;
+line-height: 28.8px;
+letter-spacing: 0.05em;
+text-align: left;
+padding: 1% 0 0;}
+
+.col-4{
+   
+    letter-spacing: 0.05em;
+    text-align: left;
+    
+}
+.col-10{
+letter-spacing: 0.05em;
+text-align: left;
+padding-top: 50px;
+    
+    }
+    .bannar-area3{
+background-image: url(images/images.png);
+width: 1440px;
+height: 781px;
+top: 5043px;
+gap: 0px;
+opacity: 0px;
+
+ }
+ .bannar-area3 h1{
+    background-color: #fff;
+    Width:359px;
+   Height:83px;
+   padding-top: 10px;
+   padding-left:90px; 
+   
+   
+
+}
+    .bannar-area3 p{
+        background-color: #fff;
+        
+        letter-spacing: 0.05cm;
+        padding: 1% 0 0 5;
+        /* background-color: #fff;
+        padding-top: 10px;
+       padding-left:90px;
+       width: 495px;
+       height: 56px */
+    
+          }
+          .text-{
+            width: 722px;
+height: 29px;
+letter-spacing: 0.05em;
+margin: 40px 0 0 500px;
+
+
+          }
+.bannar-bgone{
+            background-image: url(images/one.png);
+            width: 486px;
+height: 375px;
+top: 5956px;
+left: 191px;
+gap: 0px;
+opacity: 0px;
+margin-left: 155px;
+margin-top: 20px;
+
+          }
+.bannar-areaone{
+    width: 205px;
+height: 29px;
+ color: #FFFFFF;
+padding-top: 150px;
+
+          }
+          .bannar-bgtwo{
+            background-image: url(images/picture-2.png);
+            width: 486px;
+height: 375px;
+top: 5956px;
+left: 716px;
+gap: 0px;
+opacity: 0px;
+margin-left: 375px;
+margin-top: 20px;
+          }
+.bannar-two{
+            width: 205px;
+            height: 29px;
+             color: #FFFFFF;
+            padding-top: 150px;
+          }
+          .bannar-bgthre{
+            background-image: url(images/picture-3.png);
+            width: 486px;
+height: 348px;
+top: 6389px;
+left: 191px;
+gap: 0px;
+opacity: 0px;
+margin-left: 155px;
+margin-top: 50px;
+          }
+          .bannar-thre{
+            width: 205px;
+            height: 29px;
+             color: #FFFFFF;
+            padding-top: 150px;
+          }
+    .bannar-bgfore{
+        background-image: url(images/picture-4.png);
+        
+        width: 486px;
+        height: 348px;
+        top: 6389px;
+        left: 716px;
+        gap: 0px;
+        opacity: 0px;
+        margin-left: 375px;
+        margin-top: 50px;
+    }
+    .bannar-fore{
+        width: 205px;
+        height: 29px;
+         color: #FFFFFF;
+        padding-top: 150px;
+    }
+    .butn{
+        width: 378px;
+height: 95px;
+margin: 100px 0 0 480px;
+background-color: #424242;
+
+
+
+
+;
+    }
+    .txt h5{
+        width: 137px;
+height: 30px;
+margin: 200px 0 0 570px;
+font-size: 18px;
+color: #fff;
+    }
+    .txt p{
+        width: 696px;
+height: 120px;
+font-size: 18px;
+letter-spacing: 0.05em;
+margin: 80px 0 0 300px;
+color: #fff;
+    }
+    .bag-clor{
+        background: #292929;
+        width: 1440px;
+        height: 635px;
+    }
